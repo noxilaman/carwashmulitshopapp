@@ -24,6 +24,18 @@ module.exports = function (sequelize, Sequelize) {
         googlemap: {
             type: Sequelize.STRING
         },
+        web: {
+            type: Sequelize.STRING
+        },
+        facebook: {
+            type: Sequelize.STRING
+        },
+        ig: {
+            type: Sequelize.STRING
+        },
+        tiktok: {
+            type: Sequelize.STRING
+        },
         user_id: {
             type: Sequelize.INTEGER,
             allowNull: false
