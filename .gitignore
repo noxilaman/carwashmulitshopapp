@@ -3147,3 +3147,13 @@ backend/node_modules/yallist/LICENSE
 backend/node_modules/yallist/package.json
 backend/node_modules/yallist/README.md
 backend/node_modules/yallist/yallist.js
+backend/node_modules/.bin/nodemon.cmd
+backend/node_modules/.bin/nodemon.ps1
+backend/node_modules/.bin/nodetouch.cmd
+backend/node_modules/.bin/nodetouch.ps1
+backend/node_modules/.bin/nopt.cmd
+backend/node_modules/.bin/nopt.ps1
+backend/node_modules/.bin/semver.cmd
+backend/node_modules/.bin/semver.ps1
+backend/node_modules/.bin/uuid.cmd
+backend/node_modules/.bin/uuid.ps1
